@@ -51,16 +51,6 @@ I'm **Divyang**, currently studying **Civil Engineering at IIT Bhubaneswar**. Al
 
 ---
 
-### 📈 GitHub Stats
-
-<div align="center">
-  <a href="https://github.com/DivyangVegda">
-    <img src="https://streak-stats.demolab.com/?user=DivyangVegda&theme=tokyonight&hide_border=true" alt="Divyang's GitHub Stats" />
-  </a>
-</div>
-
----
-
 ### 📫 Let's Connect
 <div align="center">
   <a href="https://www.linkedin.com/in/divyang-vegda-869aa9239/">
